@@ -1,4 +1,4 @@
-# 🖥️ Portafolio Ciberseguridad - Google 2024/2025
+# 🖥️ Portafolio Ciberseguridad - Google 2024/2025 (Curso en Progreso)
 
 Bienvenido al portafolio del curso de Ciberseguridad de Google 2024/2025. Este repositorio documenta mis aprendizajes, proyectos y recursos del curso.
 
